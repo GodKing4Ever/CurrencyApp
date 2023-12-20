@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hackaiporjectattempt"
+name = "hackaiprojectattempt"
 version = "0.1.0"
 description = ""
 authors = ["GodKing4Ever <samanthmartis@gmail.com>"]
@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+customtkinter = "^5.2.1"
+
+uagents={ version ="^0.9.2", python = "<3.11"}
 
 
 [build-system]
