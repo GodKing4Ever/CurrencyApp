@@ -1,0 +1,18 @@
+{
+    "changeTracker": {
+        "identity_key": "a661f4f2128997823a91908406bab61006122d047a7325789f932740157edeb2",
+        "wallet_key": "OuC/CpcjzbpiIDS9y2r8/8cIQRHBzvhAOSD5fwoMSDw="
+    },
+    "core": {
+        "identity_key": "219ac3b587c4cc4f97729761886f04beaf78453098d0e1343263f4391056a39c",
+        "wallet_key": "LrYsO/kyWpC+8rOaSrQqGOuh/gzb0V1zxC54PGLSD0A="
+    },
+    "displayUpdater": {
+        "identity_key": "5b8357c557a10f152577b729bac40ce1f0b55ad9a6dffa69065fa1512acf9d05",
+        "wallet_key": "0fR/2r6OkMvzOIgTxLfkAIrClgxsHQGn+DC6n1waI40="
+    },
+    "updater": {
+        "identity_key": "d982bc34174e26cbea05dcdfa13d56dc71b6d1e690a8e824f90b90805dd05fe7",
+        "wallet_key": "sStcn2JsMLq0DHYdHZvC/jmNVxWq+YNaiVqgVPBiCh0="
+    }
+}
