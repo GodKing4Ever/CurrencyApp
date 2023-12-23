@@ -1,6 +1,7 @@
 from uagents import Agent, Context, Bureau
 from messageClasses import *
 from apiCall import getVals, readVals
+from env_key import API_KEY
 # from interface import changeClock
 # import json
 Val1 = None
@@ -9,7 +10,7 @@ tick = 0
 clock = 0
 infoVal={}
 start =1
-KEY="72c6fe965374d00afaae3000"
+KEY=API_KEY
 changeTracker = Agent(name="changeTracker")
 coreAgent = Agent(name="core")
 displayUpdater = Agent(name = "displayUpdater")
