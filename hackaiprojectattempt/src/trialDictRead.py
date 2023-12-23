@@ -9,6 +9,4 @@ print("\n\n\n")
 # print(k)
 # print(type(k))
 
-
-print('AED' in k.keys())
-print(k)
+print(list(k.keys()))
